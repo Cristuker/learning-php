@@ -4,3 +4,5 @@ Para trabalhar no linux dentro dessa basta é necessário rodar
 $ sudo chown 777 /pastaDoProjeto 
 ```
 Assim você pode trabalhar sem preocupações. 
+
+As variaveis são tipadas de forma dinamica
